@@ -1,0 +1,33 @@
+Problem statement
+The following project concerns the well-known Fisher’s Iris data set [3]. The project
+entails you researching the data set, and then writing documentation and code in the
+Python programming language [1] based on that research.
+
+An online search for information on the data set will convince you that many people
+have investigated and written about it previously, and many of those are not experienced
+programmers. You are expected to be able to break this project into several smaller tasks
+that are easier to solve, and to plug these together after they have been completed. You
+might do that for this project as follows:
+
+1. Research background information about the data set and write a summary about
+it.
+2. Keep a list of references you used in completing the project.
+3. Download the data set and write some Python code to investigate it.
+4. Summarise the data set by, for example, calculating the maximum, minimum and
+mean of each column of the data set. A Python script will quickly do this for you.
+5. Write a summary of your investigations.
+6. Include supporting tables and graphics as you deem necessary.
+
+
+
+The minimum standard for this project is a GitHub repository containing a README
+and a Python script. The README should contain a summary of the data set and your
+investigations into it. It should also clearly document how to run the Python code you
+used to investigate the data set, and what that code does. Furthermore, it should list
+all references used in completing the project.
+A better project will be well organised and contain detailed explanations. The analysis
+will be well conceived, and examples of interesting analyses that others have pursued
+based on the data set will be discussed.
+Note that the point of this project is to use Python. You may use any Python
+libraries that you wish, whether they have been discussed in class or not. You should
+not be thinking of using spreadsheet software like Excel to do your calculations.
