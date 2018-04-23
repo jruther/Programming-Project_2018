@@ -40,44 +40,84 @@ print("The median petal width in cm is:", numpy.median(petal_width))
 
 # Now we have the comprehensive range of values for the Iris Class, lets look at differenct species. 
 # We know from our research (https://en.wikipedia.org/wiki/Iris_flower_data_set) we know that we have 3 species of Iris with 50 samples in each.
-# Let's look at the sepal length of the various species 
-sepal_length_setosa = data[:51, 0]
-sepal_length_virginica = data[51:101, 0]
-sepal_lenght_versicolor = data[101:, 0]
+
+# Let's compare the sepal length of the various species 
+sepal_length_setosa = data[:50, 0]
+sepal_length_versicolor = data[51:100, 0]
+sepal_lenght_virginica = data[101:, 0]
 
 print("The minimum setosa sepal lenght in cm is:", numpy.min(sepal_length_setosa))
 print("The maximum setosa sepal lenght in cm is:",numpy.max(sepal_length_setosa))
 print("The mean setosa sepal lenght in cm is:", numpy.mean(sepal_length_setosa))
 print("The median setosa sepal lenght in cm is:", numpy.median(sepal_length_setosa))
 
-print("The minimum virginica sepal lenght in cm is:", numpy.min(sepal_length_virginica))
-print("The maximum virginica sepal lenght in cm is:",numpy.max(sepal_length_virginica))
-print("The mean virginica sepal lenght in cm is:", numpy.mean(sepal_length_virginica))
-print("The median virginica sepal lenght in cm is:", numpy.median(sepal_length_virginica))
+print("The minimum versicolor sepal lenght in cm is:", numpy.min(sepal_length_versicolor))
+print("The maximum versicolor sepal lenght in cm is:",numpy.max(sepal_length_versicolor))
+print("The mean versicolor sepal lenght in cm is:", numpy.mean(sepal_length_versicolor))
+print("The median versicolor sepal lenght in cm is:", numpy.median(sepal_length_versicolor))
 
-print("The minimum versicolor sepal lenght in cm is:", numpy.min(sepal_lenght_versicolor))
-print("The maximum versicolor sepal lenght in cm is:",numpy.max(sepal_lenght_versicolor))
-print("The mean versicolor sepal lenght in cm is:", numpy.mean(sepal_lenght_versicolor))
-print("The median versicolor sepal lenght in cm is:", numpy.median(sepal_lenght_versicolor))
+print("The minimum virginica sepal lenght in cm is:", numpy.min(sepal_lenght_virginica))
+print("The maximum virginica sepal lenght in cm is:",numpy.max(sepal_lenght_virginica))
+print("The mean virginica sepal lenght in cm is:", numpy.mean(sepal_lenght_virginica))
+print("The median virginica sepal lenght in cm is:", numpy.median(sepal_lenght_virginica))
 
 
-# Let's look at the sepal width of the various species 
-sepal_width_setosa = data[:51, 1]
-sepal_width_virginica = data[51:101, 1]
-sepal_width_versicolor = data[101:, 1]
+# Let's compare the sepal width of the various species 
+sepal_width_setosa = data[:50, 1]
+sepal_width_versicolor = data[51:100, 1]
+sepal_width_virginica = data[101:, 1]
 
 print("The minimum setosa sepal width in cm is:", numpy.min(sepal_width_setosa))
 print("The maximum setosa sepal width in cm is:",numpy.max(sepal_width_setosa))
 print("The mean setosa sepal width in cm is:", numpy.mean(sepal_width_setosa))
 print("The median setosa sepal width in cm is:", numpy.median(sepal_width_setosa))
 
-print("The minimum virginica sepal width in cm is:", numpy.min(sepal_width_virginica))
-print("The maximum virginica sepal width in cm is:",numpy.max(sepal_width_virginica))
-print("The mean virginica sepal width in cm is:", numpy.mean(sepal_width_virginica))
-print("The median virginica sepal width in cm is:", numpy.median(sepal_width_virginica))
-
 print("The minimum versicolor sepal width in cm is:", numpy.min(sepal_width_versicolor))
 print("The maximum versicolor sepal width in cm is:",numpy.max(sepal_width_versicolor))
 print("The mean versicolor sepal width in cm is:", numpy.mean(sepal_width_versicolor))
 print("The median versicolor sepal width in cm is:", numpy.median(sepal_width_versicolor))
 
+print("The minimum virginica sepal width in cm is:", numpy.min(sepal_width_virginica))
+print("The maximum virginica sepal width in cm is:",numpy.max(sepal_width_virginica))
+print("The mean virginica sepal width in cm is:", numpy.mean(sepal_width_virginica))
+print("The median virginica sepal width in cm is:", numpy.median(sepal_width_virginica))
+
+# Let's compare the petal lenght of the various species
+petal_length_setosa = data[:50, 2]
+petal_length_versicolor = data[51:100,2]
+petal_length_virginica = data[101:, 2]
+
+print("The minimum setosa petal lenght in cm is:", numpy.min(petal_length_setosa))
+print("The maximum setosa petal lenght in cm is:",numpy.max(petal_length_setosa))
+print("The mean setosa petal lenght in cm is:", numpy.mean(petal_length_setosa))
+print("The median setosa petal lenght in cm is:", numpy.median(petal_length_setosa))
+
+print("The minimum versicolor petal lenght in cm is:", numpy.min(petal_length_versicolor))
+print("The maximum versicolor petal lenght in cm is:",numpy.max(petal_length_versicolor))
+print("The mean versicolor petal lenght in cm is:", numpy.mean(petal_length_versicolor))
+print("The median versicolor petal lenght in cm is:", numpy.median(petal_length_versicolor))
+
+print("The minimum virginica petal lenght in cm is:", numpy.min(petal_length_virginica))
+print("The maximum virginica petal lenght in cm is:",numpy.max(petal_length_virginica))
+print("The mean virginica petal lenght in cm is:", numpy.mean(petal_length_virginica))
+print("The median virginica petal lenght in cm is:", numpy.median(petal_length_virginica))
+
+# And finally lets compare the petal width of the various species
+petal_width_setosa = data[:50, 3]
+petal_width_versicolor = data[51:100, 3]
+petal_width_virginica = data[101:, 3]
+
+print("The minimum setosa petal width in cm is:", numpy.min(petal_width_setosa))
+print("The maximum setosa petal width in cm is:",numpy.max(petal_width_setosa))
+print("The mean setosa petal width in cm is:", numpy.mean(petal_width_setosa))
+print("The median setosa petal width in cm is:", numpy.median(petal_width_setosa))
+
+print("The minimum versicolor petal width in cm is:", numpy.min(petal_width_versicolor))
+print("The maximum versicolor petal width in cm is:",numpy.max(petal_width_versicolor))
+print("The mean versicolor petal width in cm is:", numpy.mean(petal_width_versicolor))
+print("The median versicolor petal width in cm is:", numpy.median(petal_width_versicolor))
+
+print("The minimum virginica petal width in cm is:", numpy.min(petal_width_virginica))
+print("The maximum virginica petal width in cm is:",numpy.max(petal_width_virginica))
+print("The mean virginica petal width in cm is:", numpy.mean(petal_width_virginica))
+print("The median virginica petal width in cm is:", numpy.median(petal_width_virginica))
