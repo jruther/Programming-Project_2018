@@ -121,3 +121,15 @@ print("The minimum virginica petal width in cm is:", numpy.min(petal_width_virgi
 print("The maximum virginica petal width in cm is:",numpy.max(petal_width_virginica))
 print("The mean virginica petal width in cm is:", numpy.mean(petal_width_virginica))
 print("The median virginica petal width in cm is:", numpy.median(petal_width_virginica))
+
+import matplotlib.pyplot as plt
+import seaborn as sns
+iris = sns.load_dataset("iris")
+iris["ID"] = iris.index
+iris["ratio"] = iris["sepal_length"]/iris["sepal_width"]
+
+sns.lmplot(x="ID", y="ratio", data=iris, hue="species", fit_reg=False, legend=False)
+
+plt.legend()
+plt.show()
+
