@@ -21,3 +21,5 @@ Attribute Information:
 
 
 ![](Iris Sepal Lenght.png)
+![](Iris_Sepal_Width.png)
+
