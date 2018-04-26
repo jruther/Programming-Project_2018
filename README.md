@@ -20,4 +20,4 @@ Attribute Information:
 
 
 
-![](Iris Sepal Length.png)
+![](Iris Sepal Lenght.png)
