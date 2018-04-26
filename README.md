@@ -20,6 +20,8 @@ Attribute Information:
 
 https://github.com/jruther/Programming-Project_2018/blob/master/Iris%20Sepal%20Width.png
 
+![](Iris Sepal Width.png)
+
 ![](Iris Sepal Lenght.png)
 ![](Iris_Sepal_Width.png)
 
