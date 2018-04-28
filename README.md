@@ -50,84 +50,84 @@ Rows 1 to 50 refer to Iris Setosa samples
 Rows 51 to 100 refer to Iris Versicolor samples.
 Rows 101 to 150 refer to Irish Virginica samples.
 
-The minimum sepal length in cm is: 4.3
-The maximum sepal length in cm is: 7.9
-The mean sepal length in cm is: 5.84333333333
-The median sepal length in cm is: 5.8
+The minimum sepal length in cm is: 4.3.
+The maximum sepal length in cm is: 7.9.
+The mean sepal length in cm is: 5.84.
+The median sepal length in cm is: 5.8.
 
-The minimum sepal width in cm is: 2.0
-The maximum sepal width in cm is: 4.4
-The mean sepal width in cm is: 3.054
+The minimum sepal width in cm is: 2.0.
+The maximum sepal width in cm is: 4.4.
+The mean sepal width in cm is: 3.1.
 The median sepal width in cm is: 3.0
 
 The minimum petal length in cm is: 1.0
 The maximum petal length in cm is: 6.9
-The mean petal length in cm is: 3.75866666667
-The median petal length in cm is: 4.35
+The mean petal length in cm is: 3.76.
+The median petal length in cm is: 4.35.
 
-The minimum petal width in cm is: 0.1
-The maximum petal width in cm is: 2.5
-The mean petal width in cm is: 1.19866666667
-The median petal width in cm is: 1.3
+The minimum petal width in cm is: 0.1.
+The maximum petal width in cm is: 2.5.
+The mean petal width in cm is: 1.20.
+The median petal width in cm is: 1.3.
 
-The minimum setosa sepal lenght in cm is: 4.3
-The maximum setosa sepal lenght in cm is: 5.8
-The mean setosa sepal lenght in cm is: 5.006
-The median setosa sepal lenght in cm is: 5.0
+The minimum setosa sepal lenght in cm is: 4.3.
+The maximum setosa sepal lenght in cm is: 5.8.
+The mean setosa sepal lenght in cm is: 5.0.
+The median setosa sepal lenght in cm is: 5.0.
 
-The minimum versicolor sepal length in cm is: 4.9
-The maximum versicolor sepal length in cm is: 6.9
-The mean versicolor sepal length in cm is: 5.91428571429
-The median versicolor sepal lenght in cm is: 5.9
+The minimum versicolor sepal length in cm is: 4.9.
+The maximum versicolor sepal length in cm is: 6.9.
+The mean versicolor sepal length in cm is: 5.9.
+The median versicolor sepal lenght in cm is: 5.9.
 
-The minimum virginica sepal length in cm is: 4.9
-The maximum virginica sepal length in cm is: 7.9
-The mean virginica sepal length in cm is: 6.59387755102
-The median virginica sepal length in cm is: 6.5
+The minimum virginica sepal length in cm is: 4.9.
+The maximum virginica sepal length in cm is: 7.9.
+The mean virginica sepal length in cm is: 6.6.
+The median virginica sepal length in cm is: 6.5.
 
-The minimum setosa sepal width in cm is: 2.3
-The maximum setosa sepal width in cm is: 4.4
-The mean setosa sepal width in cm is: 3.418
-The median setosa sepal width in cm is: 3.4
+The minimum setosa sepal width in cm is: 2.3.
+The maximum setosa sepal width in cm is: 4.4.
+The mean setosa sepal width in cm is: 3.418.
+The median setosa sepal width in cm is: 3.4.
 
-The minimum versicolor sepal width in cm is: 2.0
-The maximum versicolor sepal width in cm is: 3.4
-The mean versicolor sepal width in cm is: 2.7612244898
+The minimum versicolor sepal width in cm is: 2.0.
+The maximum versicolor sepal width in cm is: 3.4.
+The mean versicolor sepal width in cm is: 2.8.
 The median versicolor sepal width in cm is: 2.8
 
-The minimum virginica sepal width in cm is: 2.2
-The maximum virginica sepal width in cm is: 3.8
-The mean virginica sepal width in cm is: 2.96734693878
-The median virginica sepal width in cm is: 3.0
+The minimum virginica sepal width in cm is: 2.2.
+The maximum virginica sepal width in cm is: 3.8.
+The mean virginica sepal width in cm is: 2.97.
+The median virginica sepal width in cm is: 3.0.
 
-The minimum setosa petal length in cm is: 1.0
-The maximum setosa petal length in cm is: 1.9
-The mean setosa petal length in cm is: 1.464
-The median setosa petal length in cm is: 1.5
+The minimum setosa petal length in cm is: 1.0.
+The maximum setosa petal length in cm is: 1.9.
+The mean setosa petal length in cm is: 1.5.
+The median setosa petal length in cm is: 1.5.
 
-The minimum versicolor petal length in cm is: 3.0
-The maximum versicolor petal length in cm is: 5.1
-The mean versicolor petal length in cm is: 4.25102040816
-The median versicolor petal length in cm is: 4.3
+The minimum versicolor petal length in cm is: 3.0.
+The maximum versicolor petal length in cm is: 5.1.
+The mean versicolor petal length in cm is: 4.25.
+The median versicolor petal length in cm is: 4.3.
 
-The minimum virginica petal length in cm is: 4.5
-The maximum virginica petal length in cm is: 6.9
-The mean virginica petal length in cm is: 5.54285714286
-The median virginica petal length in cm is: 5.5
+The minimum virginica petal length in cm is: 4.5.
+The maximum virginica petal length in cm is: 6.9.
+The mean virginica petal length in cm is: 5.54.
+The median virginica petal length in cm is: 5.5.
 
-The minimum setosa petal width in cm is: 0.1
-The maximum setosa petal width in cm is: 0.6
-The mean setosa petal width in cm is: 0.244
-The median setosa petal width in cm is: 0.2
+The minimum setosa petal width in cm is: 0.1.
+The maximum setosa petal width in cm is: 0.6.
+The mean setosa petal width in cm is: 0.24.
+The median setosa petal width in cm is: 0.2.
 
-The minimum versicolor petal width in cm is: 1.0
-The maximum versicolor petal width in cm is: 1.8
-The mean versicolor petal width in cm is: 1.32448979592
-The median versicolor petal width in cm is: 1.3
+The minimum versicolor petal width in cm is: 1.0.
+The maximum versicolor petal width in cm is: 1.8.
+The mean versicolor petal width in cm is: 1.3.
+The median versicolor petal width in cm is: 1.3.
 
-The minimum virginica petal width in cm is: 1.4
-The maximum virginica petal width in cm is: 2.5
-The mean virginica petal width in cm is: 2.01632653061
+The minimum virginica petal width in cm is: 1.4.
+The maximum virginica petal width in cm is: 2.5.
+The mean virginica petal width in cm is: 2.0.
 The median virginica petal width in cm is: 2.0
 
 I maybe guilty of 'overanalysis' in this report....!
