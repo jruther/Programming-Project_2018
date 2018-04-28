@@ -81,6 +81,7 @@ The median petal width in cm is: 1.3.
 
 ![Iris Petal Width](https://github.com/jruther/Programming-Project_2018/blob/master/Irish%20Petal%20Width.png)
 
+**A more detailed analyis of the species type was performed using the same criteria as above**
 The minimum setosa sepal lenght in cm is: 4.3.
 The maximum setosa sepal lenght in cm is: 5.8.
 The mean setosa sepal lenght in cm is: 5.1.
