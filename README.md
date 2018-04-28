@@ -193,7 +193,9 @@ We can run the KNN model directly on the validation set and summarize the result
                  precision    recall  f1-score   support
 
     Iris-setosa       1.00      1.00      1.00         7
+    
 Iris-versicolor       0.85      0.92      0.88        12
+
  Iris-virginica       0.90      0.82      0.86        11
 
     avg / total       0.90      0.90      0.90        30
