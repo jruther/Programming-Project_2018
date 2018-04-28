@@ -55,24 +55,28 @@ The minimum sepal length in cm is: 4.3.
 The maximum sepal length in cm is: 7.9.
 The mean sepal length in cm is: 5.8.
 The median sepal length in cm is: 5.8.
+
 ![Iris Sepal Length](https://github.com/jruther/Programming-Project_2018/blob/master/Iris%20Sepal%20Length.png)
 
 The minimum sepal width in cm is: 2.0.
 The maximum sepal width in cm is: 4.4
 The mean sepal width in cm is: 3.1.
 The median sepal width in cm is: 3.0.
+
 ![Iris Sepal Width](https://github.com/jruther/Programming-Project_2018/blob/master/Iris%20Sepal%20Width.png)
 
 The minimum petal length in cm is: 1.0.
 The maximum petal length in cm is: 6.9.
 The mean petal length in cm is: 3.8.
 The median petal length in cm is: 4.35.
+
 ![Iris Petal Length](https://github.com/jruther/Programming-Project_2018/blob/master/Iris%20Petal%20Lenght.png)
 
 The minimum petal width in cm is: 0.1.
 The maximum petal width in cm is: 2.5.
 The mean petal width in cm is: 1.2.
 The median petal width in cm is: 1.3.
+
 ![Iris Petal Width](https://github.com/jruther/Programming-Project_2018/blob/master/Irish%20Petal%20Width.png)
 
 The minimum setosa sepal lenght in cm is: 4.3.
