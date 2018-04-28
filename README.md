@@ -149,6 +149,8 @@ https://github.com/jruther/Programming-Project_2018/blob/master/Iris%20Sepal%20W
 ![](Iris Sepal Lenght.png)
 ![](Iris_Sepal_Width.png)
 
+https://github.com/jruther/Programming-Project_2018/blob/master/Iris%20Sepal%20Length.png
+![Iris Sepal Length}(https://github.com/jruther/Programming-Project_2018/blob/master/Iris%20Sepal%20Length.png
 
 
 														
