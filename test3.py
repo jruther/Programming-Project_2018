@@ -7,10 +7,12 @@ import numpy
 # Read data file into array (source = Stackoverflow adopted from Lecture 10)
 data = numpy.genfromtxt('data/Iris.csv', delimiter=',')
 
+# What is the size of the datset?
+print(data.size)
+
 # what are the dimensions of the dataset (instances and attributes?)
 print(data.shape)
 
-# What is the size of the datset?
-print(data.size)
+print(data.head(5))
 
 
