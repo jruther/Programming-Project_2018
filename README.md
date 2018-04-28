@@ -1,6 +1,14 @@
 # Programming-Project_2018
-## Project submission for Programming & Scripting Course 2018
-### Setting up new link for project
+## An analysis of the Iris Data Set for the project submission for Programming & Scripting Course 2018
+
+Background
+This repository is submitted for grading to Dr. Ian McLoughlin as the project constituient  of the Programm . .. . module from the course Higher Diploma in Data Analytics at GMIT.
+ 
+
+
+
+
+
 
 Data Set Information:
 
