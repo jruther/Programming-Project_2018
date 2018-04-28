@@ -152,12 +152,13 @@ A comparison of the sepal length vs the sepal width was run for the three specie
 The setosa plant has the lowest ratio, therefore it's sepal length and width are most uniform.
 The virginica plant has the highest ratio, therefore it's sepal length and width are most diverse.
 
-![Ration of Petal Length to Petal Width](https://github.com/jruther/Programming-Project_2018/blob/master/Ratio%20of%20Petal%20Lenght%20to%20Petal%20Width%20for%20Iris%20Species.png)
-
 ![Ratio of Sepal Length to Sepal Width](https://github.com/jruther/Programming-Project_2018/blob/master/Ratio%20of%20Sepal%20Lenght%20to%20Sepal%20Width%20for%20the%203%20Species%20of%20Iris.png)
 
+![Ration of Petal Length to Petal Width](https://github.com/jruther/Programming-Project_2018/blob/master/Ratio%20of%20Petal%20Lenght%20to%20Petal%20Width%20for%20Iris%20Species.png)
+
+
 We create a Box and whisker Plot for each individual variable using a Univariate plot as follows;
-!{Univeriate Plot]9https://github.com/jruther/Programming-Project_2018/blob/master/Box%20and%20Whisker%20Plots.png)
+![Univeriate Plot]9https://github.com/jruther/Programming-Project_2018/blob/master/Box%20and%20Whisker%20Plots.png)
 
 We examine the interation between variables by usine Multivariate Plotting, which suggests a high correlation and predictable relationship.
 ![Multivariate Plot](https://github.com/jruther/Programming-Project_2018/blob/master/Multivariate%20Plot%20demonstrating%20correlation.png)
