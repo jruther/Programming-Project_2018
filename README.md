@@ -34,21 +34,21 @@ In order to run different python scripts and use the different packages a simple
 4.	Iris3.py (for machine learning using Pandas)
 
 ### Analytical Results & Summary
-####The Iris1.py file contains the code generating the following results.
+#### The Iris1.py file contains the code generating the following results.
 
 The size of the file is: 750
 
 The number of rows and columns in the files is: (150, 5)
 
-The first column contains the sepal length in cm's
-The second column contains the sepal width in cm's
-The third column contains the petal length in cm's
-The fourth column contains the petal width in cm's
-The fifth column contains the species type in cm's
+The first column contains the sepal length in cm's.
+The second column contains the sepal width in cm's.
+The third column contains the petal length in cm's.
+The fourth column contains the petal width in cm's.
+The fifth column contains the species type in cm's.
 
 Rows 1 to 50 refer to Iris Setosa samples
-Rows 51 to 100 refer to Iris Versicolor samples
-Rows 101 to 150 refer to Irish Virginica samples
+Rows 51 to 100 refer to Iris Versicolor samples.
+Rows 101 to 150 refer to Irish Virginica samples.
 
 The minimum sepal length in cm is: 4.3
 The maximum sepal length in cm is: 7.9
@@ -132,7 +132,7 @@ The median virginica petal width in cm is: 2.0
 
 I maybe guilty of 'overanalysis' in this report....!
 
-####The Iris2.py file contains the code generating the following results.
+#### The Iris2.py file contains the code generating the following results.
 
 A comparison of the sepal length vs the sepal width was run for the three species of Iris flower.
 
