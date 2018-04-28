@@ -14,7 +14,7 @@ The project requirements are as follows;
 ## The Iris Data Set
 ### Introduction and Background
 Fisher’s Iris Data Set is arguably the most widely know database primarily used as learning material in the field of pattern recognition, machine learning and data analytics.
-The data set was formulated by a British statistician and biologist, [Ronald Fisher](https://en.wikipedia.org/wiki/Ronald_Fisher and published in his paper The use of multiple measurements in taxonomic problems, in 1936.  The actual data was collected by Edgar Anderson, along the shore of the Saint Lawrence River in Quebec, Canada.
+The data set was formulated by a British statistician and biologist, [Ronald Fisher](https://en.wikipedia.org/wiki/Ronald_Fisher) and published in his paper The use of multiple measurements in taxonomic problems, in 1936.  The actual data was collected by Edgar Anderson, along the shore of the Saint Lawrence River in Quebec, Canada.
 The data set consists of 150 samples of three species of Iris flower (Setosa, Versicolor, Virginica).  Each species has 50 samples.  Each flower was measured for four features namely, sepal length, sepal width, petal length, and petal width.  The measurement is in centimetres (cm’s).  Based on the features, Fisher developed a linear discriminant analysis model to distinguish the species from each other. 
 
 ### The Investigative Process
