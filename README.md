@@ -202,15 +202,25 @@ We can see that the accuracy is 0.9 or 90%
 
 ##References:
 https://archive.ics.uci.edu/ml/datasets/iris
+
 https://en.wikipedia.org/wiki/Iris_(plant)
+
 https://en.wikipedia.org/wiki/File:R._A._Fischer.jpg
+
 http://www.numpy.org/
+
 https://pandas.pydata.org/
+
 https://seaborn.pydata.org/
+
 https://matplotlib.org/gallery/index.html
+
 https://www.quora.com/How-do-I-print-an-empty-line-in-Python
+
 https://machinelearningmastery.com/machine-learning-in-python-step-by-step/
+
 https://web.microsoftstream.com/video/84d5b1a6-716a-49d6-abaf-2a9c2790cd4b
+
 http://www.gmit.ie/general/quality-assurance-framework
 
 
