@@ -149,3 +149,6 @@ https://github.com/jruther/Programming-Project_2018/blob/master/Iris%20Sepal%20W
 
 ![](Iris Sepal Lenght.png)
 ![](Iris_Sepal_Width.png)
+
+![Iris Petal Length](https://github.com/jruther/Programming-Project_2018/blob/master/Iris%20Petal%20Lenght.png)
+
