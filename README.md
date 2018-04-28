@@ -163,7 +163,7 @@ We examine the interation between variables by usine Multivariate Plotting, whic
 
 #### The Iris3.py file contains a machine learning code 
 The data set is loaded using Pandas.
-A validation dataset of 15% is extracted from full set to enable a training and verification.
+A validation dataset of 20% is extracted from full set to enable a training and verification.
 An number of algorithimic models are generated covering the following;
 Logistic Regression (LR)
 Linear Discriminant Analysis (LDA)
