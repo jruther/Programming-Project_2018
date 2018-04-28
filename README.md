@@ -158,7 +158,7 @@ The virginica plant has the highest ratio, therefore it's sepal length and width
 
 
 We create a Box and whisker Plot for each individual variable using a Univariate plot as follows;
-![Univeriate Plot]9https://github.com/jruther/Programming-Project_2018/blob/master/Box%20and%20Whisker%20Plots.png)
+![Univeriate Plot](https://github.com/jruther/Programming-Project_2018/blob/master/Box%20and%20Whisker%20Plots.png)
 
 We examine the interation between variables by usine Multivariate Plotting, which suggests a high correlation and predictable relationship.
 ![Multivariate Plot](https://github.com/jruther/Programming-Project_2018/blob/master/Multivariate%20Plot%20demonstrating%20correlation.png)
