@@ -154,4 +154,18 @@ https://github.com/jruther/Programming-Project_2018/blob/master/Iris%20Sepal%20W
 
 ![Iris Sepal Length](https://github.com/jruther/Programming-Project_2018/blob/master/Iris%20Sepal%20Length.png)
 
+![Iris Sepal Width](https://github.com/jruther/Programming-Project_2018/blob/master/Iris%20Sepal%20Width.png)
+
+![Iris Petal Width](https://github.com/jruther/Programming-Project_2018/blob/master/Irish%20Petal%20Width.png)
+
+
+![2D view of the dataset](https://github.com/jruther/Programming-Project_2018/blob/master/2D%20View%20of%20the%20Iris%20Dataset.png)
+
+![Multivariate Plot](https://github.com/jruther/Programming-Project_2018/blob/master/Multivariate%20Plot%20demonstrating%20correlation.png)
+
+![Ration of Petal Length to Petal Width](https://github.com/jruther/Programming-Project_2018/blob/master/Ratio%20of%20Petal%20Lenght%20to%20Petal%20Width%20for%20Iris%20Species.png)
+
+![Ratio of Sepal Length to Sepal Width](https://github.com/jruther/Programming-Project_2018/blob/master/Ratio%20of%20Sepal%20Lenght%20to%20Sepal%20Width%20for%20the%203%20Species%20of%20Iris.png)
+
+
 
