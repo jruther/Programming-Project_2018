@@ -154,12 +154,11 @@ The virginica plant has the highest ratio, therefore it's sepal length and width
 
 ![Ratio of Sepal Length to Sepal Width](https://github.com/jruther/Programming-Project_2018/blob/master/Ratio%20of%20Sepal%20Lenght%20to%20Sepal%20Width%20for%20the%203%20Species%20of%20Iris.png)
 
-We examine the Univeriate Plots as follows;
+We create a Box and whisker Plot for each individual variable using a Univariate plot as follows;
 !{Univeriate Plot]9https://github.com/jruther/Programming-Project_2018/blob/master/Box%20and%20Whisker%20Plots.png)
 
-The Multivariate plots are as follows;
+We examine the interation between variables by usine Multivariate Plotting, which suggests a high correlation and predictable relationship.
 ![Multivariate Plot](https://github.com/jruther/Programming-Project_2018/blob/master/Multivariate%20Plot%20demonstrating%20correlation.png)
-
 
 
 #### The Iris3.py file contains a machine learning code 
@@ -178,18 +177,24 @@ The models are evaluated.
 The algorithms are compared witht he following results
 LR: 0.966667 (0.040825)LDA: 0.975000 (0.038188)KNN: 0.983333 (0.033333)CART: 0.983333 (0.033333)NB: 0.975000 (0.053359)SVM: 0.991667 (0.025000)
 
+![Algorithm Comparison](https://github.com/jruther/Programming-Project_2018/blob/master/Algorithm%20Comparison.png)
 
 
+Make Predictions
+The KNN algorithm was the most accurate model tested. Now we want to get an idea of the accuracy of the model on our validation set.
 
+This will give us an independent final check on the accuracy of the best model. .
 
+We can run the KNN model directly on the validation set and summarize the results as a final accuracy score, a confusion matrix and a classification report.
+                 precision    recall  f1-score   support
 
+    Iris-setosa       1.00      1.00      1.00         7
+Iris-versicolor       0.85      0.92      0.88        12
+ Iris-virginica       0.90      0.82      0.86        11
 
+    avg / total       0.90      0.90      0.90        30
 
-
-
-![2D view of the dataset](https://github.com/jruther/Programming-Project_2018/blob/master/2D%20View%20of%20the%20Iris%20Dataset.png)
-
-
+We can see that the accuracy is 0.9 or 90%
 
 
 
