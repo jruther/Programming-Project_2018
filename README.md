@@ -189,6 +189,7 @@ The KNN algorithm was the most accurate model tested. Now we want to get an idea
 This will give us an independent final check on the accuracy of the best model. .
 
 We can run the KNN model directly on the validation set and summarize the results as a final accuracy score, a confusion matrix and a classification report.
+
                  precision    recall  f1-score   support
 
     Iris-setosa       1.00      1.00      1.00         7
