@@ -200,6 +200,7 @@ We can see that the accuracy is 0.9 or 90%
 ##References:
 https://archive.ics.uci.edu/ml/datasets/iris
 https://en.wikipedia.org/wiki/Iris_(plant)
+https://en.wikipedia.org/wiki/File:R._A._Fischer.jpg
 http://www.numpy.org/
 https://pandas.pydata.org/
 https://seaborn.pydata.org/
