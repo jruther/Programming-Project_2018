@@ -202,6 +202,8 @@ Iris-versicolor       0.85      0.92      0.88        12
 
 We can see that the accuracy is 0.9 or 90%
 
+END.
+
 
 ##References:
 https://archive.ics.uci.edu/ml/datasets/iris
