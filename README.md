@@ -41,6 +41,8 @@ The size of the file is: 750
 
 The number of rows and columns in the files is: (150, 5)
 
+![2D view of the dataset](https://github.com/jruther/Programming-Project_2018/blob/master/2D%20View%20of%20the%20Iris%20Dataset.png)
+
 The first column contains the sepal length in cm's.
 The second column contains the sepal width in cm's.
 The third column contains the petal length in cm's.
@@ -153,6 +155,11 @@ The virginica plant has the highest ratio, therefore it's sepal length and width
 ![Ratio of Sepal Length to Sepal Width](https://github.com/jruther/Programming-Project_2018/blob/master/Ratio%20of%20Sepal%20Lenght%20to%20Sepal%20Width%20for%20the%203%20Species%20of%20Iris.png)
 
 We examine the Univeriate Plots as follows;
+!{Univeriate Plot]9https://github.com/jruther/Programming-Project_2018/blob/master/Box%20and%20Whisker%20Plots.png)
+
+The Multivariate plots are as follows;
+![Multivariate Plot](https://github.com/jruther/Programming-Project_2018/blob/master/Multivariate%20Plot%20demonstrating%20correlation.png)
+
 
 
 #### The Iris3.py file contains a machine learning code 
@@ -182,7 +189,7 @@ LR: 0.966667 (0.040825)LDA: 0.975000 (0.038188)KNN: 0.983333 (0.033333)CART: 0.9
 
 ![2D view of the dataset](https://github.com/jruther/Programming-Project_2018/blob/master/2D%20View%20of%20the%20Iris%20Dataset.png)
 
-![Multivariate Plot](https://github.com/jruther/Programming-Project_2018/blob/master/Multivariate%20Plot%20demonstrating%20correlation.png)
+
 
 
 
