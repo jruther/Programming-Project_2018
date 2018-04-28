@@ -152,9 +152,24 @@ The virginica plant has the highest ratio, therefore it's sepal length and width
 
 ![Ratio of Sepal Length to Sepal Width](https://github.com/jruther/Programming-Project_2018/blob/master/Ratio%20of%20Sepal%20Lenght%20to%20Sepal%20Width%20for%20the%203%20Species%20of%20Iris.png)
 
+We examine the Univeriate Plots as follows;
 
 
+#### The Iris3.py file contains a machine learning code 
+The data set is loaded using Pandas.
+A validation dataset of 15% is extracted from full set to enable a training and verification.
+An number of algorithimic models are generated covering the following;
+Logistic Regression (LR)
+Linear Discriminant Analysis (LDA)
+K-Nearest Neighbors (KNN).
+Classification and Regression Trees (CART).
+Gaussian Naive Bayes (NB).
+Support Vector Machines (SVM
 
+The models are evaluated.
+
+The algorithms are compared witht he following results
+LR: 0.966667 (0.040825)LDA: 0.975000 (0.038188)KNN: 0.983333 (0.033333)CART: 0.983333 (0.033333)NB: 0.975000 (0.053359)SVM: 0.991667 (0.025000)
 
 
 
